@@ -1,64 +1,52 @@
+# 🎄 Beardys – Frozen Christmas Flames  
+## 🎮 Offizielles Regelwerk (Community- & Streamserver)
 
-
-
-
-
-        *                 *                 *                 *
-       /#\               /#\               /#\               /#\
-      /###\             /###\             /###\             /###\
-     /#####\           /#####\           /#####\           /#####\
-    /#######\         /#######\         /#######\         /#######\
-   /#########\       /#########\       /#########\       /#########\
-  /###########\     /###########\     /###########\     /###########\
-       |||               |||               |||               |||
-       |||               |||               |||               |||
-
-
-
-# Beardys – Frozen Christmas Flames  
-## Offizielles Regelwerk (Community- & Streamserver)
-
-Willkommen auf Beardys Community- und Streamserver für Enshrouded!  
-Das Ziel ist ein entspannter, gemeinsamer Server, auf dem jeder mitspielen kann – egal ob Gast aus dem Stream oder festes Mitglied.  
-Die Regeln sind bewusst kurz und locker gehalten.
+Willkommen auf **Beardys Community- und Streamserver für Enshrouded**!  
+Hier geht es um entspanntes, gemeinsames Spielen – egal ob du spontan aus dem Stream dazukommst oder fester Bestandteil der Community bist.  
+Die Regeln sind bewusst **leicht, locker und freundlich** gehalten.
 
 ---
 
-## 1. Einstieg & Teilnahme
-- Jeder darf spontan im Stream mitspielen.  
+## ⭐ 1. Einstieg & Teilnahme
+- Jeder darf jederzeit im Stream mitspielen.  
 - Bitte mit einem **neuen Charakter** starten, damit alle fair beginnen.  
-- Gäste und Stammspieler sind gleichermaßen willkommen.
+- Gäste und Stammspieler sind herzlich willkommen.
 
 ---
 
-## 2. Gemeinsam statt Gegeneinander
+## 🤝 2. Gemeinsam statt Gegeneinander
 - Wir spielen als **Community**, nicht als Solo-Speedrun.  
-- Kreative Bauten sind willkommen, aber bitte nicht komplett abseits von der Gruppe.  
-- Es gibt ein **gemeinsames Lager**, das von allen genutzt werden kann.
+- Kreative Bauten sind super – aber bitte nicht komplett abseits der Gruppe.  
+- Es gibt ein **gemeinsames Lager**, das von allen genutzt und gepflegt wird.
 
 ---
 
-## 3. Loot & Farmen
-- Kein übermäßiges Horten oder komplett leerräumen von Gebieten.  
-- Nimm, was du brauchst – lege gern Materialien für andere zurück.  
-- Gemeinsames Farmen ist ausdrücklich erwünscht.
+## 💎 3. Loot & Farmen
+- Kein übermäßiges Horten oder Leerräumen ganzer Gebiete für sich allein.  
+- Nimm, was du brauchst – lege gern Material für andere zurück.  
+- Gemeinsames Farmen stärkt die Community und macht mehr Spaß.
 
 ---
 
-## 4. Kommunikation
+## 🗣️ 4. Kommunikation
 - Voice ist **freiwillig**.  
-- Discord-Voice kann genutzt werden, muss aber nicht.  
-- Ingame-Chat ist völlig ausreichend.  
-- Wichtig: respektvoller und entspannter Umgang.
+- Wer mag, kann im **Discord-Voicechat** quatschen.  
+- Ingame-Chat reicht völlig aus, wenn man lieber ruhig spielen möchte.  
+- Hauptsache: respektvoller, freundlicher Umgang.
 
 ---
 
-## 5. Server-Kodex
+## 📜 5. Server-Kodex
 - Kein Lootklau.  
 - Keine unnötige Zerstörung.  
-- Kein Trolling oder Stören anderer Spieler.  
-- Kurz Bescheid geben, wenn etwas Wichtiges verändert wurde.  
-- Ziel: **Spaß haben und gemeinsam spielen**.
+- Kein absichtliches Stören anderer Spieler.  
+- Bitte kurz Bescheid geben, wenn du etwas Wichtiges verändert hast.  
+- Ziel: **Spaß haben, gemeinsam spielen, niemanden stressen**.
+
+---
+
+🎄 **Viel Spaß auf dem Server!**  
+Wenn du noch Ideen oder Wünsche hast, update gerne im Stream/Discord.
 
 ---
 

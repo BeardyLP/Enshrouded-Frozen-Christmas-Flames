@@ -2,6 +2,19 @@
 
 
 
+
+        *                 *                 *                 *
+       /#\               /#\               /#\               /#\
+      /###\             /###\             /###\             /###\
+     /#####\           /#####\           /#####\           /#####\
+    /#######\         /#######\         /#######\         /#######\
+   /#########\       /#########\       /#########\       /#########\
+  /###########\     /###########\     /###########\     /###########\
+       |||               |||               |||               |||
+       |||               |||               |||               |||
+
+
+
 # Beardys – Frozen Christmas Flames  
 ## Offizielles Regelwerk (Community- & Streamserver)
 
@@ -49,21 +62,8 @@ Die Regeln sind bewusst kurz und locker gehalten.
 
 ---
 
-## Projektseite & Infos
-Weitere Informationen, Teilnahmehinweise und mögliche Updates:  
-**https://github.com/BeardyLP/Enshrouded-Frozen-Christmas-Flames**
 
 
 
 
-
-        *                 *                 *                 *
-       /#\               /#\               /#\               /#\
-      /###\             /###\             /###\             /###\
-     /#####\           /#####\           /#####\           /#####\
-    /#######\         /#######\         /#######\         /#######\
-   /#########\       /#########\       /#########\       /#########\
-  /###########\     /###########\     /###########\     /###########\
-       |||               |||               |||               |||
-       |||               |||               |||               |||
 

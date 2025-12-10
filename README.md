@@ -51,6 +51,7 @@ Wenn du noch Ideen oder Wünsche hast, update gerne im Stream/Discord.
 ---
 
 
+<img width="1126" height="981" alt="grafik" src="https://github.com/user-attachments/assets/c0cfb139-3add-4a3b-a231-2c8f6151f4b8" />
 
 
 
